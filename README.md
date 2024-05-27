@@ -13,6 +13,8 @@
 ![Express][(https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
 )]
 ![Node](https://img.shields.io/badge/Node-FF6C37?style=for-the-badge&logo=Postman&logoColor=green)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 
 ### Databases
