@@ -10,7 +10,8 @@
 ### Backend Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Express](https://img.shields.io/badge/Express-FF6C37?style=for-the-badge&logo=Express&logoColor=orange)
+![Express}[(https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white
+)]
 ![Node](https://img.shields.io/badge/Node-FF6C37?style=for-the-badge&logo=Postman&logoColor=green)
 
 
