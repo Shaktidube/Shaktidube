@@ -36,8 +36,14 @@
 
 
 ### BlockChain Development
-[![Solidity](https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=react&logoColor=gray)](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+
+### Mobile App Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 )
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
+)
+
 
 
 ### Cloud Hosting
