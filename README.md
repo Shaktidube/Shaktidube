@@ -1,4 +1,7 @@
 <p align="center"><img width=100% src=""></p>
+[![Watch the video](https://raw.githubusercontent.com/Shaktidube/Shaktidube/main/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/Shaktidube/Shaktidube/main/https://github.com/Shaktidube/Shaktidube/blob/main/githubb%20profile%20intro.mp4)
+
+
 
 ## 🛠 Primary Tech Stack
 
