@@ -1,4 +1,4 @@
-<h3 align="center">A passionate full stack developer</h3>
+<p align="center"><img width=100% src=""></p>
 
 ## 🛠 Primary Tech Stack
 
