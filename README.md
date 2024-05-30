@@ -1,5 +1,6 @@
-<p align="center"><img width=100% src=""></p>
-[![Watch the video](https://raw.githubusercontent.com/Shaktidube/Shaktidube/main/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/Shaktidube/Shaktidube/main/https://github.com/Shaktidube/Shaktidube/blob/main/githubb%20profile%20intro.mp4)
+<p align="center"><img width=100% src="https://github.com/Shaktidube/Shaktidube/assets/132253687/9f7aaf08-5c68-4aea-98fb-666e99a96f38
+"></p>
+
 
 
 
