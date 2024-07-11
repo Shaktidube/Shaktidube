@@ -1,4 +1,4 @@
- <video align="center" loop width=100% src="https://github.com/Shaktidube/Shaktidube/assets/132253687/9f7aaf08-5c68-4aea-98fb-666e99a96f38"></video> 
+ <video align="center" loop width=100% src="https://github.com/Shaktidube/Shaktidube/assets/132253687/9f7aaf08-5c68-4aea-98fb-666e99a96f38"autoplay></video> 
 
 
 
@@ -61,3 +61,6 @@
 
 ## ⚡Areas of Interest
 🌟Synthesizing scripts to make development work flow easier
+🌟Developing Web Application
+🌟Dapp Projects
+🌟Block Chain development
