@@ -1,5 +1,5 @@
  
-<p align="center"><video autoplay muted controls width=100% src="https://github.com/Shaktidube/Shaktidube/assets/132253687/9f7aaf08-5c68-4aea-98fb-666e99a96f38"></video>video</p>
+<p align="center"><video autoplay muted controls width=100% src="https://github.com/Shaktidube/Shaktidube/assets/132253687/9f7aaf08-5c68-4aea-98fb-666e99a96f38"></video></p>
 
 
 
@@ -53,6 +53,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Digital Ocean](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 
 ### DevOps
