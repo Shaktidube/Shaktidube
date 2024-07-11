@@ -62,6 +62,9 @@
 
 ## ⚡Areas of Interest
 🌟Synthesizing scripts to make development work flow easier
+
 🌟Developing Web Application
+
 🌟Dapp Projects
+
 🌟Block Chain development
