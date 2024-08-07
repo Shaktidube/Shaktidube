@@ -1,4 +1,4 @@
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shaktidube&label=Profile%20views&color=0e75b6&style=flat" alt="Shaktidube" /> </p> 
 <p align="center"><video autoplay muted controls width=100% src="https://github.com/Shaktidube/Shaktidube/assets/132253687/9f7aaf08-5c68-4aea-98fb-666e99a96f38"></video></p>
 
 
